@@ -1,0 +1,7 @@
+christoph's video on api
+
+first vid:
+38.27 start talking about api
+52.42 append data to div in html
+
+second vid:
